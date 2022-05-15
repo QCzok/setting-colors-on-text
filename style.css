@@ -1,27 +1,36 @@
-body{
+body {
     margin: 10% 20% 10% 20%;
-}
-h1 {
-    color: ;
-    /* Setze unter color eine Farbe ein */
+    background-color: whitesmoke;
 }
 
+div {
+    display: inline-block;
+    width: 32%;
+    height: 200px;
+}
+
+h1,
 h2 {
-    color: ;
+    color: brown;
     /* Setze unter color eine Farbe ein */
 }
 
-#lorem1 {
-    color: ;
+p {
+    color: orange;
     /* Setze unter color eine Farbe ein */
 }
 
-#lorem2 {
-    color: ;
+#div1 {
+    background-color: ;
     /* Setze unter color eine Farbe ein */
 }
 
-#lorem3 {
-    color: ;
+#div2 {
+    background-color: ;
+    /* Setze unter color eine Farbe ein */
+}
+
+#div3 {
+    background-color: ;
     /* Setze unter color eine Farbe ein */
 }
